@@ -1,0 +1,14 @@
+//
+// Created by carlo on 11/04/2024.
+//
+
+#ifndef UNTITLED7_MANEJO_DE_ARCHIVOS_H
+#define UNTITLED7_MANEJO_DE_ARCHIVOS_H
+
+
+class MANEJO_DE_ARCHIVOS {
+
+};
+
+
+#endif //UNTITLED7_MANEJO_DE_ARCHIVOS_H
